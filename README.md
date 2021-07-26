@@ -1,6 +1,6 @@
 ![Rick](https://user-images.githubusercontent.com/35120906/126982467-f7849c8c-b761-432f-97de-37c7484ab425.png)
 ### Hi there 👋
-![java-icon-image-19](https://user-images.githubusercontent.com/35120906/126984238-3255210c-cbeb-432d-9429-b0a01be8f41d.jpg)
+![java](https://user-images.githubusercontent.com/35120906/126984429-c8980946-fab6-4e0c-a829-b7b95e41ef6e.png)
 ![postgresql](https://user-images.githubusercontent.com/35120906/126984250-065ba00e-9e64-4469-9056-cd38d83535ca.png)
 ![angular](https://user-images.githubusercontent.com/35120906/126984263-bacc332f-14de-4ef7-aff7-bc719bb6546a.png)
 ![node-js](https://user-images.githubusercontent.com/35120906/126984282-abb87311-ed14-42bd-8938-2885c9c7e80e.png)
