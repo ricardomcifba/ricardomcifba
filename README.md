@@ -1,3 +1,4 @@
+![Rick](https://user-images.githubusercontent.com/35120906/126982467-f7849c8c-b761-432f-97de-37c7484ab425.png)
 ### Hi there 👋
 
 <!--
