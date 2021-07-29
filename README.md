@@ -7,6 +7,8 @@
 ![html](https://user-images.githubusercontent.com/35120906/126984295-d81318da-ac6b-41ea-ac1a-853742eb913c.png)
 ![css](https://user-images.githubusercontent.com/35120906/126984300-965a472a-5ea5-42ec-a74e-f2216def488e.png)
 ![react](https://user-images.githubusercontent.com/35120906/126984311-451667b2-c286-4b24-ac8b-5b4b640f2aa5.png)
+![git](https://user-images.githubusercontent.com/35120906/127562333-c153fb92-9669-4c74-9d3d-6183714995a6.png)
+
 
 <!--
 **ricardomcifba/ricardomcifba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
